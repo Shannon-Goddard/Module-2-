@@ -11,9 +11,9 @@ The goals of this challenge was to:
 <br/>
 The information displayed is no longer limited to 12 rows with a Static Array<br/>
 With a Dynamic Array the rows can adjust as needed, without boundaries
-![Input Year](https://github.com/Shannon-Goddard/Module-2-/blob/master/Input%20Year.png)<br/>
-The user is prompted to input a year, in which, to search stock tickers
+![Input Year](https://github.com/Shannon-Goddard/Module-2-/blob/master/Input%20Year.png)
+The user is prompted to input a year, in which, to search stock tickers<br/>
 The tickers that appear for that year have their volume, starting price, ending price, and return information
-![Stocks Loaded](https://github.com/Shannon-Goddard/Module-2-/blob/master/Stocks%20Loaded.png)<br/>
-As a bonus feature, because of the "unbound" amount of stocks that can be displayed, the user will have a
+![Stocks Loaded](https://github.com/Shannon-Goddard/Module-2-/blob/master/Stocks%20Loaded.png)
+As a bonus feature, because of the "unbound" amount of stocks that can be displayed, the user will have a<br/>
 window appear after the year is selected. This window will inform the user how many stocks are listed for that year
